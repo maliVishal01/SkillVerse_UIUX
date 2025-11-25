@@ -1,4 +1,4 @@
-killVerse is a comprehensive mobile application designed to unlock potential through curated learning paths in programming and web development. It addresses the common pitfalls of generic learning apps by providing a structured, engaging, and unified platform for skill mastery.
+skillVerse is a comprehensive mobile application designed to unlock potential through curated learning paths in programming and web development. It addresses the common pitfalls of generic learning apps by providing a structured, engaging, and unified platform for skill mastery.
 
 
 
